@@ -1,5 +1,5 @@
 # Covid 19 Dashboard
-> DATA1050 Project: Miru Yang, James Ro
+>Project: Miru Yang, James Ro
 
         Since 2020, there have been over 50 million recorded Covid-19 cases in the United States.
         While vaccinations and public safety measures have greatly reduced the spread and impact of 
